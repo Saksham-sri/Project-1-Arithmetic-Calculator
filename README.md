@@ -1,2 +1,2 @@
-# Project-1-Arithmetic-Calculator
- This is my first project Arithmetic Calculator
+# CODESOFT
+ This is my first project for Codesoft
